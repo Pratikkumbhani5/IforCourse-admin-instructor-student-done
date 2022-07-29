@@ -1,0 +1,36 @@
+.course-watch-banner-items li {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 10px;
+}
+.course-watch-page-area {
+  padding: 0 150px !important;
+  margin-bottom: 200px;
+}
+.videoPlayer,
+.youtubePlayer,
+.vimeoPlayer {
+  min-width: 100%;
+  width: 100%;
+}
+.course-single-details-right-content {
+  padding: 25px;
+  margin-left: 0;
+  max-width: 600px !important;
+}
+
+.tabs .tab-content {
+  height: 500px;
+}
+
+.tabs .nav-item button {
+  color: black !important;
+}
+
+.pdf-icons {
+  font-size: 100px;
+}
+
+.Videopath {
+  cursor: pointer;
+}

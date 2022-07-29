@@ -1,0 +1,11 @@
+.create-assignment-upload-files {
+  background-color: #fafafa;
+  box-shadow: 0 2px #ededed;
+  border: 1px solid #ededed;
+  height: 259px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+}

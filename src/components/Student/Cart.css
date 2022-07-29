@@ -1,0 +1,33 @@
+.cart .ui-w-40 {
+  width: 160px !important;
+  height: auto;
+}
+
+.cart .card {
+  box-shadow: 0 1px 15px 1px rgba(52, 40, 104, 0.08);
+}
+
+.cart .ui-product-color {
+  display: inline-block;
+  overflow: hidden;
+  margin: 0.144em;
+  width: 0.875rem;
+  height: 0.875rem;
+  border-radius: 10rem;
+  -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15) inset;
+  vertical-align: middle;
+}
+.cart .card .card-header {
+  align-items: center;
+}
+.cart-text {
+  font-size: 25px;
+}
+.sec-tr {
+  background-color: #f7f6f6;
+}
+
+.removecart-btn {
+  cursor: pointer;
+}
